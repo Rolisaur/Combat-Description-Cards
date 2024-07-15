@@ -1,0 +1,704 @@
+[
+    {
+        "Collection": "Power",
+        "Action Word": "BANGS",
+        "Hit Description": "A banging punch of a blow strikes your enemy downwards...",
+        "Deathblow Description": "...your swing ends with a resounding bang that your opponent will never hear."
+    },
+    {
+        "Collection": "Range",
+        "Action Word": "CRUSHES",
+        "Hit Description": "Traveling in a short arc, your shot lands in a crushing collision...",
+        "Deathblow Description": "...like an elite marksman, your shot crushes the life from your opponent instantly."
+    },
+    {
+        "Collection": "Finesse",
+        "Action Word": "POPS",
+        "Hit Description": "A quick snap of your weapon results in an audible pop as it connects with your enemy…",
+        "Deathblow Description": "…this closing strike ends with a gruesome popping sound."
+    },
+    {
+        "Collection": "Power",
+        "Action Word": "BRUTAL",
+        "Hit Description": "You swing a hook with your weapon and connect brutally...",
+        "Deathblow Description": "...the lack of resistance from your foe tells you your brutal strikes can slow. "
+    },
+    {
+        "Collection": "Power",
+        "Action Word": "BOOM",
+        "Hit Description": "Two solid objects connect producing a booming clang…",
+        "Deathblow Description": "...so obvious is the strike you mouth the word \"BOOM\" before finishing your enemy with that exalted sound."
+    },
+    {
+        "Collection": "Finesse",
+        "Action Word": "CLASH",
+        "Hit Description": "Like two clashing rams, your weapon impacts soundly against your opponents...",
+        "Deathblow Description": "...a loud clash stamps your roundhouse strike while utterly demolishing your foe."
+    },
+    {
+        "Collection": "Range",
+        "Action Word": "CRASH",
+        "Hit Description": "A crashing sound tells you your strike has landed true...",
+        "Deathblow Description": "your shot crashes down like a strike of lightning. Unlucky for your foe, as dodging lightning may have presented a better chance of survival."
+    },
+    {
+        "Collection": "Power",
+        "Action Word": "BATTER ",
+        "Hit Description": "You wind up and swing, as if playing a child's game, smiling as your strike batters your foe...",
+        "Deathblow Description": "…your brutal assault leaves your opponent beaten and battered."
+    },
+    {
+        "Collection": "Power",
+        "Action Word": "SLAMS",
+        "Hit Description": "A well-executed reverse-swing slams into your opponent...",
+        "Deathblow Description": "…this opponent will not rise after your wide arching swing slams him down."
+    },
+    {
+        "Collection": "Power",
+        "Action Word": "CRACKS",
+        "Hit Description": "Your strike lands with a sharp cracking sound...",
+        "Deathblow Description": "...your fierce swing ends in a resounding crack. A sound you can be proud of. "
+    },
+    {
+        "Collection": "Range",
+        "Action Word": "THUD",
+        "Hit Description": "Your shot produces a solid but dull thud as it rams into your opponent...",
+        "Deathblow Description": "…your amazingly accurate shot causes a weighty thud that puts an end to this one."
+    },
+    {
+        "Collection": "Power",
+        "Action Word": "RAMS",
+        "Hit Description": "A swift ramming jab surprises your enemy...",
+        "Deathblow Description": "...the fight ends in a deadly ram to the vitals."
+    },
+    {
+        "Collection": "Power",
+        "Action Word": "CRUNCH",
+        "Hit Description": "Your expertly executed swing hits with a satisfying crunching sound...",
+        "Deathblow Description": "...a grisly crunch echoes across the battlefield, announcing to all the winner of this fight."
+    },
+    {
+        "Collection": "Range",
+        "Action Word": "THUMP",
+        "Hit Description": "You lose track of your shot for a moment before hearing a satisfying thump…",
+        "Deathblow Description": " ...your shot speeds forward like a ray of light, striking its target with a gruesome thump."
+    },
+    {
+        "Collection": "Power",
+        "Action Word": "BASH",
+        "Hit Description": "A solid bash breaks through your opponent's guard... ",
+        "Deathblow Description": "...you bash down, shattering something critical before your enemy dies without a sound. "
+    },
+    {
+        "Collection": "Finesse",
+        "Action Word": "ARRHYTHMIC",
+        "Hit Description": "An arrhythmic yet effective blow surprises your opponent...",
+        "Deathblow Description": "...a deliberately arrhythmic swing of your weapon brings this contest to a close!"
+    },
+    {
+        "Collection": "Finesse",
+        "Action Word": "SMACKS",
+        "Hit Description": "Your blow smacks your enemy like a boulder…",
+        "Deathblow Description": "...with a thunderous smack you put this enemy down for good."
+    },
+    {
+        "Collection": "Power",
+        "Action Word": "PULVERIZING",
+        "Hit Description": "You smash into your foe with a pulverizing force you weren't aware you possessed…",
+        "Deathblow Description": "...a gruesome slam leaves your enemy a pulverized wreck. "
+    },
+    {
+        "Collection": "Power",
+        "Action Word": "BONE-JARRING",
+        "Hit Description": "A bone-jarring hit sends gratifying shockwaves vibrating up your arms…",
+        "Deathblow Description": "…your smash ends with a bone-jarring thud, leaving your enemy laid out in a contorted heap."
+    },
+    {
+        "Collection": "Power",
+        "Action Word": "TEETH-RATTLING",
+        "Hit Description": "Your swing slams into your enemy with teeth-rattling force... ",
+        "Deathblow Description": "...you catch your opponent hard with a teeth rattling blow that will put an end to this fight."
+    },
+    {
+        "Collection": "Range",
+        "Action Word": "POWERFUL",
+        "Hit Description": "You hear a loud splat as your powerful shot smashes into your enemy... ",
+        "Deathblow Description": "...a powerfully delivered shot rips through the open air and lays your enemy low. "
+    },
+    {
+        "Collection": "Power",
+        "Action Word": "FEROCIOUS",
+        "Hit Description": "A daring and ferocious swing crashes into your enemy...",
+        "Deathblow Description": "...with unrelenting ferocity, you batter your enemy to an unceremonious death."
+    },
+    {
+        "Collection": "Range",
+        "Action Word": "WALLOP",
+        "Hit Description": "Your shot packs a wallop as it strikes your foe and ricochets downwards...",
+        "Deathblow Description": "…your shot brings this fight to an end with a vicious wallop to your enemy's center. "
+    },
+    {
+        "Collection": "Range",
+        "Action Word": "LOUD",
+        "Hit Description": "A mighty blast of a shot lands with a loud clap... ",
+        "Deathblow Description": "...smashing your enemy with a loud crack forces your foe to go rigid."
+    },
+    {
+        "Collection": "Finesse",
+        "Action Word": "STAGGER",
+        "Hit Description": "Your staggered and hesitant steps throw your opponent's rhythm off just long enough for you to land a quick strike...",
+        "Deathblow Description": "...your opponent suddenly staggers, allowing you to easily bring home a finishing blow. "
+    },
+    {
+        "Collection": "Finesse",
+        "Action Word": "EXPERT",
+        "Hit Description": "An expert swing pierces your enemy's defenses…",
+        "Deathblow Description": "...with a practiced form that any expert would be proud of, you end your opponent's life with grace."
+    },
+    {
+        "Collection": "Finesse",
+        "Action Word": "WHACKING",
+        "Hit Description": "With a whacking thud, your blow slams into your enemy...",
+        "Deathblow Description": "...a spinning strike connects with a loud whack, demolishing everything before it."
+    },
+    {
+        "Collection": "Finesse",
+        "Action Word": "CHARGING",
+        "Hit Description": "A charging strike ruthlessly batters your opponent...",
+        "Deathblow Description": "...charged with all of your strength, your stroke fells your enemy with a gruesome splat."
+    },
+    {
+        "Collection": "Finesse",
+        "Action Word": "RELENTLESS",
+        "Hit Description": "You drive past your enemy's defenses with a relentless fervor…",
+        "Deathblow Description": "...through relentless determination, your enemy perishes under your repeated onslaught."
+    },
+    {
+        "Collection": "Power",
+        "Action Word": "JARRING",
+        "Hit Description": "Your quick jab lands with jarring force...",
+        "Deathblow Description": "...a winding swing connects, jarring your enemy's core and leaving them a broken wreck."
+    },
+    {
+        "Collection": "Power",
+        "Action Word": "DRUM",
+        "Hit Description": "A spinning haymaker lands with a drumming bang....",
+        "Deathblow Description": "...and your final blow lands with a sound like a giant's drumbeat, announcing your foe into the afterlife."
+    },
+    {
+        "Collection": "Power",
+        "Action Word": "PUMMELING",
+        "Hit Description": "You swing around, pummeling your enemy with wild abandon... ",
+        "Deathblow Description": "...you relentlessly pummel your enemy, battering him to an untidy mass of history. "
+    },
+    {
+        "Collection": "Power",
+        "Action Word": "THUNDEROUS",
+        "Hit Description": "Your swing collides with thunderous force...",
+        "Deathblow Description": "...destroying your opponent with a thunderous blow fills you with renewed vigor."
+    },
+    {
+        "Collection": "Finesse",
+        "Action Word": "GRISLY",
+        "Hit Description": "Your whipping blow hits with a grisly crack...",
+        "Deathblow Description": "… onlookers would grimace during this grisly execution."
+    },
+    {
+        "Collection": "Range",
+        "Action Word": "RESOUNDING",
+        "Hit Description": "Your savagely accurate shot lands with a resounding thump... ",
+        "Deathblow Description": "...if your God judged you on this exact strike, you would receive resounding approval."
+    },
+    {
+        "Collection": "Finesse",
+        "Action Word": "CLEVER",
+        "Hit Description": "A clever jab slips right past your enemy's guard...",
+        "Deathblow Description": "...cleverly battering away your enemy's defenses, you finish off your foe with a hard swing to the vitals."
+    },
+    {
+        "Collection": "Power",
+        "Action Word": "MIGHTY",
+        "Hit Description": "A mighty overhand swing produces a loud crack as it smacks into your foe...",
+        "Deathblow Description": "...your mighty roundhouse crashes through your enemy's guard demolishing everything before it."
+    },
+    {
+        "Collection": "Power",
+        "Action Word": "FIERCE",
+        "Hit Description": "A fierce blow with the broad side of your weapon smacks into your enemy...",
+        "Deathblow Description": "...the stunning ferocity of your blow leaves your foe a brutalized wreck."
+    },
+    {
+        "Collection": "Finesse",
+        "Action Word": "THWACK",
+        "Hit Description": "Your weighty strike hits with a resounding thwack...",
+        "Deathblow Description": "...a loud thwack echoes through the air, announcing your foe's deadly misstep."
+    },
+    {
+        "Collection": "Range",
+        "Action Word": "SPLINTERS",
+        "Hit Description": "Your shot connects and splinters pieces off your enemy ...",
+        "Deathblow Description": "...your shot causes something in your opponent's body to splinter and break. This foe will die slowly."
+    },
+    {
+        "Collection": "Power",
+        "Action Word": "POUND",
+        "Hit Description": "Your heart begins to pound even faster as reverberations of your strike excites it…",
+        "Deathblow Description": "...you pound your enemy into the surface below. This outcome tips towards the edge of satisfaction."
+    },
+    {
+        "Collection": "Finesse",
+        "Action Word": "SKILLFUL",
+        "Hit Description": "A skillful swing strikes true with gratifying resolution....",
+        "Deathblow Description": "...a skillful swing slips past your enemy's guard and cracks them directly in the midsection."
+    },
+    {
+        "Collection": "Finesse",
+        "Action Word": "REVERBERATING",
+        "Hit Description": "You deliver a well-placed thrust, the force of it reverberating through your body...",
+        "Deathblow Description": "...they say what you do today reverberates throughout history. After that tremendous blow, you hope the saying is true."
+    },
+    {
+        "Collection": "Power",
+        "Action Word": "DEMOLISHING",
+        "Hit Description": "A demolishing blow careens into your enemy...",
+        "Deathblow Description": "...your blow settles this fight and demolishes any idea that this enemy could ever defeat you."
+    },
+    {
+        "Collection": "Range",
+        "Action Word": "STURDY",
+        "Hit Description": "You watch as your sturdy ammunition survives the impact with your opponent...",
+        "Deathblow Description": "...your opponent would have survived your shot, if a sturdy defense was mounted a moment sooner, alas it was not."
+    },
+    {
+        "Collection": "Power",
+        "Action Word": "OVERWHELM",
+        "Hit Description": "In a moment of savagery, you overwhelm your opponent with a brutal strike...",
+        "Deathblow Description": "...with a surge of vigor you overwhelm your opponent, striking blow after blow until there is no need to strike again."
+    },
+    {
+        "Collection": "Range",
+        "Action Word": "RACKED",
+        "Hit Description": "You are pleased to see your strike has racked your opponent into a moment of dysfunctionality...",
+        "Deathblow Description": "...racked by the results of your blow, your opponent's body fails and falls slowly downwards."
+    },
+    {
+        "Collection": "Power",
+        "Action Word": "BREAKING",
+        "Hit Description": "Your heavy swing forces something to break off your opponent and snap past you through the air...",
+        "Deathblow Description": "...a crushing overhand strike leaves your foe both broken and defeated."
+    },
+    {
+        "Collection": "Power",
+        "Action Word": "TREMENDOUS",
+        "Hit Description": "A tremendously fortunate swing slams into your enemy with a heavy thwack...",
+        "Deathblow Description": "...with your foe now dead, onlookers would be inspired by the tremendous effort you have displayed today."
+    },
+    {
+        "Collection": "Finesse",
+        "Action Word": "TRICKED",
+        "Hit Description": "Feinting left, you trick your opponent, who dodges straight into your strike from the right... ",
+        "Deathblow Description": "...tricked into thinking you were open to attack, your opponent never saw the blow that finished them."
+    },
+    {
+        "Collection": "Finesse",
+        "Action Word": "SHIFTY",
+        "Hit Description": "Your shifty footwork befuddles your foe, and you dance in to deliver a painful strike...",
+        "Deathblow Description": "...your shifty moves create a moment of indecision in your foe, giving you the opportunity you need to finish them off with an unexpected lunge! "
+    },
+    {
+        "Collection": "Finesse",
+        "Action Word": "VIOLENT",
+        "Hit Description": "You turn aside the enemy's weak attack and deliver a violent reprisal...",
+        "Deathblow Description": "...you drive into your foe's center without mercy, finishing them off with a violent killing blow."
+    },
+    {
+        "Collection": "Finesse",
+        "Action Word": "ANTICIPATED",
+        "Hit Description": "Having anticipated your enemy's over-extension, you deftly sidestep , delivering a smooth and fluid strike...",
+        "Deathblow Description": "...the enemy foolishly acts in anticipation of your next move, providing the perfect opportunity for you to react unexpectedly and easily end the contest."
+    },
+    {
+        "Collection": "Power",
+        "Action Word": "THROBBING",
+        "Hit Description": "An accurate strike leaves your foe with a throbbing contusion...",
+        "Deathblow Description": "...you strike so hard that your arm starts throbbing, your foe is no longer able to feel anything at all."
+    },
+    {
+        "Collection": "Finesse",
+        "Action Word": "IMPRESSIVE",
+        "Hit Description": "You deftly contort around your opponent's attack and land an impressive strike of your own...",
+        "Deathblow Description": "...having disabled your opponent with a series of impressive strikes, you leave them in a contorted heap."
+    },
+    {
+        "Collection": "Range",
+        "Action Word": "SPEED",
+        "Hit Description": "Your shot carries your message of deadly intent with speed and accuracy.",
+        "Deathblow Description": "...judging the speed of your opponent's movements, you time the perfect shot. You can trust this opponent will be moving no more."
+    },
+    {
+        "Collection": "Range",
+        "Action Word": "LONG-DRAWN",
+        "Hit Description": "With long, drawn-out and careful aim, you loose a shot that hits home...",
+        "Deathblow Description": "...the projectile flies in a long, drawn-out arc, perfectly incapacitating its target."
+    },
+    {
+        "Collection": "Range",
+        "Action Word": "STINGING",
+        "Hit Description": "The missile bucks and bounces off the target in a stinging impact...",
+        "Deathblow Description": "...with stinging force, your shot smacks the enemy over backward, ending their fight."
+    },
+    {
+        "Collection": "Range",
+        "Action Word": "CLINK",
+        "Hit Description": "Your careful aim is rewarded with a satisfying clink...",
+        "Deathblow Description": "...a high-pitched clink will echo in your opponents ears as they journey to the afterlife."
+    },
+    {
+        "Collection": "Finesse",
+        "Action Word": "DAREDEVIL",
+        "Hit Description": "The temerity of your attack makes you seem the daredevil, your driving below showing no regard for your own safety...",
+        "Deathblow Description": "...ignoring your opponent's attack, you dive like a daredevil through their guard and land a legendary blow."
+    },
+    {
+        "Collection": "Power",
+        "Action Word": "LUMBERING",
+        "Hit Description": "Your lumbering blow lands with great force sending your opponent reeling...",
+        "Deathblow Description": "...a final lumbering strike smashes through your foe's defenses, bringing them down for good."
+    },
+    {
+        "Collection": "Power",
+        "Action Word": "EXAGGERATED",
+        "Hit Description": "Leaping forward, your whole body twists in an exaggerated arc as your weapon powers into your foe...",
+        "Deathblow Description": "...you wheel around with a massive, exaggerated swing, smashing your opponent out of the fight."
+    },
+    {
+        "Collection": "Power",
+        "Action Word": "PUNCHING",
+        "Hit Description": "A forceful lunge punches straight through your enemy's defenses...",
+        "Deathblow Description": "...your weapon punches home like a battering ram, ploughing deep into your opponent's expiring body. "
+    },
+    {
+        "Collection": "Finesse",
+        "Action Word": "BETRAY",
+        "Hit Description": "Your foe's senses betray them as you whirl quickly and catch them from an unexpected direction...",
+        "Deathblow Description": "...your foe's ruptured and splintered body betrays them, and they expire messily before you."
+    },
+    {
+        "Collection": "Power",
+        "Action Word": "EXPULSION",
+        "Hit Description": "The visceral hit expels a trail of fluid from your unfortunate opponent...",
+        "Deathblow Description": "...a clean and powerful hit creates a fatal expulsion of viscera."
+    },
+    {
+        "Collection": "Finesse",
+        "Action Word": "DOWNWARDS",
+        "Hit Description": "Like a whip, a long, theatrical swing, strikes downwards into your enemy...  ",
+        "Deathblow Description": "...you belt your victim with a violent downward swing, ending the exchange."
+    },
+    {
+        "Collection": "Finesse",
+        "Action Word": "LEAPS",
+        "Hit Description": "Using the strength in your whole body you leap forward during this one effective blow...",
+        "Deathblow Description": "...you leap high, using momentum to bring your weapon down on your opponent with enough force to finish them off."
+    },
+    {
+        "Collection": "Range",
+        "Action Word": "LOB",
+        "Hit Description": "You intentionally lob your shot into an arc, allowing your opponent's momentum to cause most of the damage during collision...",
+        "Deathblow Description": "...a high lob comes down square on your target, they never  saw their end coming."
+    },
+    {
+        "Collection": "Finesse",
+        "Action Word": "THEATRICAL",
+        "Hit Description": "With theatrical flair you produce your weapon, seemingly from thin air, and smash it into your opponent...",
+        "Deathblow Description": "...with a theatrical flourish, you execute a flawless attack that ends this conflict."
+    },
+    {
+        "Collection": "Finesse",
+        "Action Word": "COMICAL",
+        "Hit Description": "As though actors in a comedy, your unwitting opponent plays the part of the victim admirably...",
+        "Deathblow Description": "...the impact sends your foe sprawling comically like a thrown rag-doll."
+    },
+    {
+        "Collection": "Range",
+        "Action Word": "HISS",
+        "Hit Description": "The weapon hisses through the air like a snake, biting into its victim's center...",
+        "Deathblow Description": "...the hiss of your weapon speeding towards them is the last thing your opponent will ever hear."
+    },
+    {
+        "Collection": "Range",
+        "Action Word": "CLIPPED",
+        "Hit Description": "At first it looks as though your shot will miss, but instead it clips your target with what appears to be a very painful strike...",
+        "Deathblow Description": "...the shot clips your target and initially seems ineffective, but then they slowly collapse."
+    },
+    {
+        "Collection": "Range",
+        "Action Word": "DRIVING",
+        "Hit Description": "The missile stops dead as all force is transferred into your target, driving them backwards...",
+        "Deathblow Description": "...the missile rams home with deadly force, driving all life out of your target."
+    },
+    {
+        "Collection": "Power",
+        "Action Word": "UPPERCUT",
+        "Hit Description": "The force of your uppercut physically lifts your opponent...",
+        "Deathblow Description": "...an explosive uppercut flips your opponent clean over and leaves them in a motionless heap."
+    },
+    {
+        "Collection": "Finesse",
+        "Action Word": "EXPLOIT",
+        "Hit Description": "You exploit a gap in the enemy's defenses to land a punishing weapon slap...",
+        "Deathblow Description": "...exploiting your knowledge of the enemy's anatomy, you land a finishing strike where they are most vulnerable."
+    },
+    {
+        "Collection": "Range",
+        "Action Word": "RING",
+        "Hit Description": "The projectile's impact is delivered with a resounding ring...",
+        "Deathblow Description": "...the solid impact sets your foe ringing like a bell that has tolled its last."
+    },
+    {
+        "Collection": "Range",
+        "Action Word": "CURVED",
+        "Hit Description": "Your shot takes an unusual curve in midair, before leaving a noticeable dent in your opponent...",
+        "Deathblow Description": "...the missile's curved trajectory connects cleanly, impacting the innards of your foe and ending this fight."
+    },
+    {
+        "Collection": "Range",
+        "Action Word": "HEAVY",
+        "Hit Description": "Your opponent overreacts to your shot as if hit by something far more heavy...",
+        "Deathblow Description": "...your shot forces your opponent to shudder before becoming stiff and dropping with a heavy thud."
+    },
+    {
+        "Collection": "Range",
+        "Action Word": "BUTTED",
+        "Hit Description": "As if butted by a great ram, your opponent recoils awkwardly from your shot...",
+        "Deathblow Description": "...with all your force behind it, the shot butts your opponent over, they will never stand again. "
+    },
+    {
+        "Collection": "Range",
+        "Action Word": "LOW ARC",
+        "Hit Description": "The unusually low arc of your shot looks to land short of your enemy before spinning upwards directly into a surprisingly solid strike. That was odd...",
+        "Deathblow Description": "..the low-arching missile immobilizes your opponent, leaving them helpless against death."
+    },
+    {
+        "Collection": "Range",
+        "Action Word": "WHISTLED",
+        "Hit Description": "Your shot fights against the thickness of the air, producing an audible whistle before landing properly within your opponent...",
+        "Deathblow Description": "...the shot whistles through the air, laying your enemy low with a telling blow."
+    },
+    {
+        "Collection": "Range",
+        "Action Word": "HUMMED",
+        "Hit Description": "Sent with form an instructor would be proud of, your shot hums through the air and slams into its intended target...",
+        "Deathblow Description": "...the missile and its target fall in opposite directions, the projectile still humming from the impact."
+    },
+    {
+        "Collection": "Range",
+        "Action Word": "CRACK",
+        "Hit Description": "A sharp crack sounds as your shot penetrates what little defense your opponent could muster...",
+        "Deathblow Description": "...the shot wrenches your foe around with a savage crack that sends them sprawling downwards."
+    },
+    {
+        "Collection": "Power",
+        "Action Word": "MASHES",
+        "Hit Description": "With tremendous force, your weapon mashes into the soft area of your opponent, onlookers would grimace at the sight...",
+        "Deathblow Description": "... you look down to see vital parts of your opponent have been mashed into pulp. Well done. "
+    },
+    {
+        "Collection": "Finesse",
+        "Action Word": "GRACEFUL",
+        "Hit Description": "In a single moment, your weapon describes a graceful and unavoidable arc of destruction...",
+        "Deathblow Description": "...you sunder your opponent while gracefully and effortlessly avoiding the spray of viscera that exits the wound."
+    },
+    {
+        "Collection": "Range",
+        "Action Word": "RATTLED",
+        "Hit Description": "This unexpected strike from afar leaves your foe visibly rattled...",
+        "Deathblow Description": "...the force of the impact violently rattles your opponent's core, rendering them unable to continue in any way."
+    },
+    {
+        "Collection": "Finesse",
+        "Action Word": "BREACH",
+        "Hit Description": "With practiced efficiency you breach your assailant's defenses...",
+        "Deathblow Description": "...you tactically breach their defenses and then deliver a swift, almost merciful, deathblow."
+    },
+    {
+        "Collection": "Finesse",
+        "Action Word": "PLAYFUL",
+        "Hit Description": "Your almost playful movements strike a blow that is anything but childish...",
+        "Deathblow Description": "...you grab your opponent and introduce them to your weapon, dropping them playfully like a broken toy."
+    },
+    {
+        "Collection": "Finesse",
+        "Action Word": "RHYTHM",
+        "Hit Description": "Your pattern of pivots and parries immediately throws your opponent off rhythm, allowing your skillful counterattack to strike true...",
+        "Deathblow Description": "...disrespecting the rhythm of combat you suddenly lash out and your weapon snatches your foe's life in a brutal collision."
+    },
+    {
+        "Collection": "Finesse",
+        "Action Word": "DASH",
+        "Hit Description": "Seizing the initiative you dash forward, letting your weapon sink into your foe...",
+        "Deathblow Description": "...closing in and striking in one fluid motion you collapse your enemy in front of you with a dash of finesse and flair."
+    },
+    {
+        "Collection": "Finesse",
+        "Action Word": "BESIEGE",
+        "Hit Description": "You rain down a series of jabbing blows, besieging your adversary until one vicious shot lands ...",
+        "Deathblow Description": "...having besieged your hapless enemy, you completely overwhelm them and end their struggle with life."
+    },
+    {
+        "Collection": "Power",
+        "Action Word": "BRUTISH",
+        "Hit Description": "There is no defense your foe can muster against the brutish might of your attack...",
+        "Deathblow Description": "...even your most brutish of ancestors would be proud of how you just ended your foe's life."
+    },
+    {
+        "Collection": "Finesse",
+        "Action Word": "SLAP",
+        "Hit Description": "What looks to be a light slap, actually knocks your opponent dangerously off-balance...",
+        "Deathblow Description": "...a heavy slap from the broad side of your weapon sends your foe spinning to their grave."
+    },
+    {
+        "Collection": "Finesse",
+        "Action Word": "SHOVES",
+        "Hit Description": "You shove your opponent's defenses aside and deliver a smack of a blow....",
+        "Deathblow Description": "...you're not sure which of your blows was the finisher, but this last strike shoves your opponent down like a bag of rocks."
+    },
+    {
+        "Collection": "Range",
+        "Action Word": "BLAST",
+        "Hit Description": "Your opponent overreacts to your shot as if they were blasted by a bucket of dreadful water...",
+        "Deathblow Description": "...the shot blasts through your foe, followed by a spray of innards."
+    },
+    {
+        "Collection": "Finesse",
+        "Action Word": "BEWILDERING",
+        "Hit Description": "Stiff and stilted, your style bewilders your opponent allowing you to strike home with ease...",
+        "Deathblow Description": "...bewildering your adversary with an unbalanced attack, you watch them fall with an unsettling crack."
+    },
+    {
+        "Collection": "Range",
+        "Action Word": "CRUNCH",
+        "Hit Description": "The projectile barrels into its target with a solid, audible crunch...",
+        "Deathblow Description": "...there's a sickening crunch as the projectile impacts with deadly might."
+    },
+    {
+        "Collection": "Power",
+        "Action Word": "COLLISION",
+        "Hit Description": "The quality of your weapon is tested with this brutal collision...",
+        "Deathblow Description": "...your attack connects in a ferocious collision, leaving your enemy in an unrecognizable heap."
+    },
+    {
+        "Collection": "Range",
+        "Action Word": "SURPRISE",
+        "Hit Description": "The speed and accuracy of your ranged attack catches the enemy completely by surprise...",
+        "Deathblow Description": "...your opponent reacts with surprise and bewilderment as the unexpected power of your shot brings them down. "
+    },
+    {
+        "Collection": "Range",
+        "Action Word": "WELL-AIMED",
+        "Hit Description": "Your well-aimed shot splits all defenses and strikes home...",
+        "Deathblow Description": "...your well-aimed shot has precisely the intended effect, permanently removing your foe from this world."
+    },
+    {
+        "Collection": "Range",
+        "Action Word": "WOBBLES",
+        "Hit Description": "A fault in the ammunition cause this shot to wobble in flight for a moment before hitting your opponent squarely...",
+        "Deathblow Description": "...the aftermath of your strike sets your foe wobbling briefly before they succumb to death and collapse."
+    },
+    {
+        "Collection": "Finesse",
+        "Action Word": "SNAP",
+        "Hit Description": "You feel, more than hear, something snap deep within your foe....",
+        "Deathblow Description": "...a solid blow strikes home, something snaps, and your foe collapses lifelessly."
+    },
+    {
+        "Collection": "Power",
+        "Action Word": "CASCADE",
+        "Hit Description": "Your cascade of attacks leave your foe caked in their own runny ichor...",
+        "Deathblow Description": "...the full weight of your weapon strikes in an unrelenting cascade leaving only a mixture of foul fluids and gore."
+    },
+    {
+        "Collection": "Power",
+        "Action Word": "PUMMEL",
+        "Hit Description": "As you pummel your opponent's defenses, a slanting strike plunges into their side...",
+        "Deathblow Description": "...you fiercely pummel your foe until their slack frame slumps to the ground."
+    },
+    {
+        "Collection": "Power",
+        "Action Word": "CONCUSSIVE",
+        "Hit Description": "Without hesitation you unleash a concussive blow which shakes your opponent's core...",
+        "Deathblow Description": "...shifting your weight as you swing, you feel the concussive force of your attack flatten your enemy's form."
+    },
+    {
+        "Collection": "Power",
+        "Action Word": "BARRAGE",
+        "Hit Description": "Your swift barrage of strikes unfolds your foe's defenses...",
+        "Deathblow Description": "...your attack becomes a blinding barrage of strikes and your opponent is unable to prevent their own devastation."
+    },
+    {
+        "Collection": "Range",
+        "Action Word": "TUMBLES",
+        "Hit Description": "The missile tumbles oddly end-over-end and ploughs into your hapless foe...",
+        "Deathblow Description": "...the missile transfers all of its force into the target, sending them tumbling down into a rigid mass."
+    },
+    {
+        "Collection": "Power",
+        "Action Word": "SNAPPING ",
+        "Hit Description": "Twisting your hips as you swing your weapon, you bring the full weight of your body snapping into your foe...",
+        "Deathblow Description": "...snapping your enemy's body with the intensity of your blows, you watch them crumble in front of you."
+    },
+    {
+        "Collection": "Range",
+        "Action Word": "SLING",
+        "Hit Description": "With a snap of your wrist you sling your projectile and it strikes home...",
+        "Deathblow Description": "... a faint warble precedes the flight of your projectile, which you sling with deadly accuracy, incapacitating your target."
+    },
+    {
+        "Collection": "Range",
+        "Action Word": "PELT",
+        "Hit Description": "With an audible whip, you pelt the enemy, and are rewarded with a grisly crack...",
+        "Deathblow Description": "...turning away as your projectile pelts the enemy, a sharp crack followed by a dull thud informs you they have fallen."
+    },
+    {
+        "Collection": "Range",
+        "Action Word": "HAMMER",
+        "Hit Description": "Your shot hammers home, sending tremors through your targets body...",
+        "Deathblow Description": "...your shot impacts your foe with the force of a carpenter's hammer, driving them to their death."
+    },
+    {
+        "Collection": "Range",
+        "Action Word": "BLINDSIDE",
+        "Hit Description": "Unseen, your shot blindsides your enemy, sending them into a reflexive spin...",
+        "Deathblow Description": "...attacking from your target's blindside, your shot descends upon them like the shadow of death."
+    },
+    {
+        "Collection": "Finesse",
+        "Action Word": "CONTORTING",
+        "Hit Description": "Contorting to avoid a counterattack, you snap your weapon into the enemy...",
+        "Deathblow Description": "...twisting and contorting you confound your foe, sending them to their grave in a mist of pain and confusion."
+    },
+    {
+        "Collection": "Range",
+        "Action Word": "HEARTLESS",
+        "Hit Description": "With heartless precision your projectile slams into your opponent...",
+        "Deathblow Description": "...your shot kills your opponent. While a heartless act, you know you've saved lives."
+    },
+    {
+        "Collection": "Range",
+        "Action Word": "STAMP",
+        "Hit Description": "With a mighty smack, the enemy is left with the impression of your weapon stamped on their hide...",
+        "Deathblow Description": "...your foe's lifeless body slumps, forever bearing the indelible stamp of your ruthless attack."
+    },
+    {
+        "Collection": "Power",
+        "Action Word": "WEIGHTY",
+        "Hit Description": "The perfect imprint can be briefly seen where the weighty might of your blow landed...",
+        "Deathblow Description": "…your weighty haymaker forces your opponents  unfortunate life from their body."
+    },
+    {
+        "Collection": "Range",
+        "Action Word": "VICIOUS",
+        "Hit Description": "A vicious blow strikes your enemy, ringing out like a weapon-smith's hammer...",
+        "Deathblow Description": "...you viciously aim the finishing blow, putting an end to this conflict with a splattering overhand swing."
+    }
+]
